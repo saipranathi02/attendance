@@ -127,3 +127,4 @@ widgetsnbextension==3.6.0
 yarg==0.1.9
 zipp==3.8.0
 python==3.9.13
+pip==22.1.1
